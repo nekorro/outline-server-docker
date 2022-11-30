@@ -1,4 +1,4 @@
-FROM nginx:stable-alpine
+FROM alpine:latest
 
 ARG SSRUST_VERSION=v1.14.3
 
